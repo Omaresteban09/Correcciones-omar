@@ -7,3 +7,4 @@ elif x < y:
         print("y es mayor que x")
 else:
         print("x es igual a y")
+        
