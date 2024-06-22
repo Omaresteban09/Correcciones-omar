@@ -1,10 +1,9 @@
-
-6. ```python
-    x = 10
-    y = 5
-    if x > y:
+"python"
+x = 10
+y = 5
+if x > y:
         print("x es mayor que y")
-    elif x < y:
+elif x < y:
         print("y es mayor que x")
-    else:
+else:
         print("x es igual a y")
